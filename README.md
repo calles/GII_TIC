@@ -4,15 +4,15 @@ Repositorio de materiales y proyectos de la asignatura **TIC** del [Grado de Ing
 ## Curso [22][23]
 * 📚 [Temario](temario/readme.md)
 * 🧠 [Ejercicios](ejercicios/readme.md)
-* 🏆 [Proyectos que abordaremos](docs/proyectos.md)
+* 🏆 [Proyectos](docs/proyectos.md)
 * 🏅 [Retos](retos/readme.md)
 
 ## Herramientas
-* [GOOGLE]
-* [CHATGPT]
-* [NANOCAD]
-* [AWS]
-* [DOCKER]
+* [GOOGLE](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [CHATGPT](https://openai.com)
+* [NANOCAD](https://nanocad.com)
+* [AWS](https://aws.amazon.com/es/education/awseducate)
+* [DOCKER](https://www.docker.com)
 
 ## Generalidades
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
