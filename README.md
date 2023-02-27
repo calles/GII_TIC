@@ -8,7 +8,7 @@ Repositorio de materiales y proyectos de la asignatura **TIC** del [Grado de Ing
 * 🏅 [Retos](retos/readme.md)
 
 ## Herramientas
-* [GOOGLE](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [GOOGLE](https://workspace.google.com/intl/es)
 * [CHATGPT](https://openai.com)
 * [NANOCAD](https://nanocad.com)
 * [AWS](https://aws.amazon.com/es/education/awseducate)
