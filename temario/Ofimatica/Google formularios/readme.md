@@ -9,7 +9,7 @@ Convierte el formulario de Google en un chatbot muy atractivo.
 </a>
 
 ***
-Ficha actualizada:18 de junio de 2022
+Ficha actualizada: 18 de junio de 2022
 ***
-Autor:Collect.chat Inc.open_in_new
+Autor: [Collect.chat Inc.open_in_new](https://collect.chat/)
 ***
