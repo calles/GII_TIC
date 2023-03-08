@@ -8,7 +8,7 @@ Distribución de Actividades Formativas por Temas.
 * [Hoja de cálculo + CHATGPT](https://github.com/calles/GII_TIC/tree/main/temario/Ofimatica/Google%20hoja%20de%20calculo/CHATGPT)
 * 📜 Nuevas tendencias sobre la IA (Perplexity)
 * 📓 CAD (Creación de diseños 2D para topologías)
-* [Nanocad](https://github.com/calles/GII_TIC/tree/main/temario/Ofimatica/Google%20hoja%20de%20calculo/CHATGPT)
+* [Nanocad](https://github.com/calles/GII_TIC/tree/main/temario/CAD)
 * 🔎 Actividad 1: Nanocad (Uso de la herramienta para topologías de red)
 * 🖋️ Virtualización local (VMware)
 * 📒 Virtualización en la nube (AWS)
