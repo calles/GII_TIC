@@ -2,7 +2,7 @@
 Distribución de Actividades Formativas por Temas. 
 
 ## Curso [22][23]
-* 🏫 Ofimática - Uso avanzado de google doc, hoja de cálculo y presentaciones.
+* 🏫 Ofimática - Uso avanzado de google doc, hoja de cálculo y Formularios.
 * [Formularios de google + chatbot](https://github.com/calles/GII_TIC/tree/main/temario/Ofimatica/Google%20formularios)
 * [Hoja de cálculo + formato condicional](https://github.com/calles/GII_TIC/tree/main/temario/Ofimatica/Google%20hoja%20de%20calculo/Formato%20condisiconal)
 * [Hoja de cálculo + CHATGPT](https://github.com/calles/GII_TIC/tree/main/temario/Ofimatica/Google%20hoja%20de%20calculo/CHATGPT)
