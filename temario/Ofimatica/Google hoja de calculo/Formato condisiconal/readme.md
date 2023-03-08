@@ -4,12 +4,6 @@
 El formato condicional es una herramienta útil para identificar patrones o tendencias en una hoja de cálculo.
 
 
-<a href="https://youtu.be/pRfT9fUUaFM" target="_blank">
- <img src="https://lh3.googleusercontent.com/-DpmGnvMySo4/Y24Ik-LTZ7I/AAAAAAAA8PU/bWyoDu8bHEgUzwI-qPsAy3RjBqpfAwn1gCNcBGAsYHQ/s220-w220-h140-nd/Chat-forms%2Bthumbnail.gif" alt="Watch the video" width="240" height="180" border="10" />
+<a href="https://youtu.be/PEyS7m_Sl9k" target="_blank">
+ <img src="https://i.ytimg.com/vi/pjXiQ4xrghk/maxresdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
-
-***
-Ficha actualizada: 18 de junio de 2022
-***
-Autor: [Collect.chat Inc.open_in_new](https://collect.chat/)
-***
