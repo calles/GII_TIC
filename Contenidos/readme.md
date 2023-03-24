@@ -18,8 +18,8 @@ Distribución de Actividades Formativas por Temas.
   * [VMware](https://www.vmware.com/es/products/workstation-player/workstation-player-evaluation.html)   
   * [Hyper V](https://learn.microsoft.com/es-es/virtualization/hyper-v-on-windows/about/)
 * ☁️ Virtualización en la nube
-  * AWS
-  * Azure
+  * [AWS](https://aws.amazon.com/es/)
+  * [Azure](https://azure.microsoft.com/es-es)
 * ⚙️ Automatización de despliegue (Doker)
 
 
