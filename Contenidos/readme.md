@@ -12,7 +12,6 @@ Distribución de Actividades Formativas por Temas.
   * [Perplexity](https://www.perplexity.ai)
   * [YouChat](https://you.com)
   * [ChatPDF](https://www.chatpdf.com)
-  * [EVOLVE LAB](https://www.evolvelab.io/veras)
 * 🖥️ Virtualización local.
   * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
   * [VMware](https://www.vmware.com/es/products/workstation-player/workstation-player-evaluation.html)   
