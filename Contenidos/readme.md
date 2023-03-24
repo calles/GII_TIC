@@ -13,7 +13,10 @@ Distribución de Actividades Formativas por Temas.
   * [YouChat](https://you.com)
   * [ChatPDF](https://www.chatpdf.com)
   * [EVOLVE LAB](https://www.evolvelab.io/veras)
-* 🖥️ Virtualización local (VMware)
+* 🖥️ Virtualización local.
+  * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+  * [VMware](https://www.vmware.com/es/products/workstation-player/workstation-player-evaluation.html)   
+  * [Hyper V](https://learn.microsoft.com/es-es/virtualization/hyper-v-on-windows/about/)
 * ☁️ Virtualización en la nube (AWS)
 * ⚙️ Automatización de despliegue (Doker)
 
