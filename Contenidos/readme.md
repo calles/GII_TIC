@@ -9,10 +9,10 @@ Distribución de Actividades Formativas por Temas.
 * 📜 CAD (Creación de diseños 2D para topologías)
   * [nanoCAD](https://github.com/calles/GII_TIC/tree/main/Contenidos/CAD)
 * 🤖 Nuevas tendencias sobre la IA.
-  * (Perplexity)[https://www.perplexity.ai/]
-  * (YouChat)[https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat]
-  * (ChatPDF)[https://www.chatpdf.com/]
-  * (EVOLVE LAB)[https://www.evolvelab.io/veras]
+  * [Perplexity](https://www.perplexity.ai/)
+  * [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat)
+  * [ChatPDF](https://www.chatpdf.com/)
+  * [EVOLVE LAB](https://www.evolvelab.io/veras)
 * 🖥️ Virtualización local (VMware)
 * ☁️ Virtualización en la nube (AWS)
 * ⚙️ Automatización de despliegue (Doker)
