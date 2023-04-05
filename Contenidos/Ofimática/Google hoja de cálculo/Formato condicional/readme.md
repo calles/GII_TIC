@@ -8,4 +8,4 @@ El formato condicional es una herramienta útil para identificar patrones o tend
  <img src="https://i.ytimg.com/vi/pjXiQ4xrghk/maxresdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
 
-* [CHAT BOT](https://chatbot.page/LQLt5H)
+* [CHATBOT](https://chatbot.page/LQLt5H)
