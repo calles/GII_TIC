@@ -9,7 +9,7 @@ nanoCAD es una plataforma moderna de diseño asistido por computadora (CAD) que 
 </a>
 
 ***
-Free: [LibreCAD]https://librecad.org/#download
+Free: [LibreCAD](https://librecad.org/#download)
 ***
 Free trial: [nanoCAD](https://nanocad.com/products/nanocad-platform/download/)
 ***
