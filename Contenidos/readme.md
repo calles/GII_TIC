@@ -7,7 +7,7 @@ Distribución de Actividades Formativas por Temas.
   * [Hoja de cálculo + formato condicional](https://github.com/calles/GII_TIC/tree/main/Contenidos/Ofim%C3%A1tica/Google%20hoja%20de%20c%C3%A1lculo/Formato%20condicional)
   * [Hoja de cálculo + CHATGPT](https://github.com/calles/GII_TIC/tree/main/Contenidos/Ofim%C3%A1tica/Google%20hoja%20de%20c%C3%A1lculo/CHATGPT)
 * 📜 CAD (Creación de diseños 2D para topologías)
-  * [nanoCAD](https://github.com/calles/GII_TIC/tree/main/Contenidos/CAD)
+  * [LibreCAD - nanoCAD](https://github.com/calles/GII_TIC/tree/main/Contenidos/CAD)
 * 🤖 Nuevas tendencias sobre la IA.
   * [Perplexity](https://www.perplexity.ai)
   * [YouChat](https://you.com)
