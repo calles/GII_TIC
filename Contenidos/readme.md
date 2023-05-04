@@ -9,6 +9,7 @@ Distribución de Actividades Formativas por Temas.
 * 📜 CAD (Creación de diseños 2D para topologías)
   * [LibreCAD - nanoCAD](https://github.com/calles/GII_TIC/tree/main/Contenidos/CAD)
 * 🤖 Nuevas tendencias sobre la IA.
+  * [IA](https://docs.google.com/presentation/d/1agWRVK80smcQhBkt34_CgKmx4j3dO7g4IOgDJNFO9Q0/edit?usp=sharing)
   * [Perplexity](https://www.perplexity.ai)
   * [YouChat](https://you.com)
   * [ChatPDF](https://www.chatpdf.com)
