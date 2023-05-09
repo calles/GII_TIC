@@ -13,6 +13,6 @@
 
 - Utilizar backup (snapshot).
 
- <img src="https://www.docpath.com/wp-content/uploads/features-and-advantages-of-virtual-machine-systems.png" width="500" height="500" border="10" />
+ <img src="https://www.docpath.com/wp-content/uploads/features-and-advantages-of-virtual-machine-systems.png" width="800" height="500" border="10" />
 
 
