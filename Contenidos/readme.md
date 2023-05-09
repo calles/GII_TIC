@@ -14,7 +14,7 @@ Distribución de Actividades Formativas por Temas.
    * [YouChat](https://you.com)
    * [ChatPDF](https://www.chatpdf.com)
 * 🖥️ Virtualización local.
-  * [Máquina Virtual](https://www.virtualbox.org/wiki/Downloads)
+  * [Máquina Virtual](https://github.com/calles/GII_TIC/blob/main/Contenidos/Virtualizaci%C3%B3n%20local/readme.md)
    * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
    * [VMware](https://www.vmware.com/es/products/workstation-player/workstation-player-evaluation.html)   
    * [Hyper V](https://learn.microsoft.com/es-es/virtualization/hyper-v-on-windows/about/)
