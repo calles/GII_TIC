@@ -1,8 +1,18 @@
-# Práctica 1
+# Práctica 2
 
-## Planos
-Utiliza la herramienta LibreCAD o nanoCAD para poder crear el plano de una habitación de la residencia universitaria.
+## Virtualización
+- Crear 2 máquina virtual con sistemas operativos diferentes.
 
- <img src="https://www.uneatlantico.es/sites/default/files/inline-images/estudio-compartido-2personas-1.png" width="500" height="500" border="10" />
+- Conectar una USB.
+
+- Configurar la red para que se conecten entre ellos.
+
+- Ejecutar un servidor web (Pág. web sencilla).
+
+- Migrar una máquina virtual.
+
+- Utilizar backup (snapshot).
+
+ <img src="https://www.docpath.com/wp-content/uploads/features-and-advantages-of-virtual-machine-systems.png" width="500" height="500" border="10" />
 
 
