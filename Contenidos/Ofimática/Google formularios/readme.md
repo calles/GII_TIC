@@ -8,6 +8,7 @@ Convierte el formulario de Google en un chatbot muy atractivo.
 </br>
 <img src="https://lh3.googleusercontent.com/-DpmGnvMySo4/Y24Ik-LTZ7I/AAAAAAAA8PU/bWyoDu8bHEgUzwI-qPsAy3RjBqpfAwn1gCNcBGAsYHQ/s220-w220-h140-nd/Chat-forms%2Bthumbnail.gif" alt="Watch the video" width="240" height="180" border="10" />
 
+* Ejemplo
 [ChatBot](https://chatbot.page/LQLt5H)
 
 ***
