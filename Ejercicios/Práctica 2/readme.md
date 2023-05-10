@@ -13,6 +13,6 @@
 
 - Utilizar backup (snapshot).
 
- <img src="https://ingenierobinario.com/wp-content/uploads/2021/02/sistemvirtual.jpg" width="850" height="400" border="10" />
+ <img src="https://ingenierobinario.com/wp-content/uploads/2021/02/sistemvirtual.jpg" width="500" height="400" border="10" />
 
 
