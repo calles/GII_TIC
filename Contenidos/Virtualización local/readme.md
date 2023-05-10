@@ -23,4 +23,6 @@ La primera opción es el escritorio virtual. Esta tecnología crea una estación
 
 Por otro lado, las máquinas virtuales ofrecen una experiencia de PC virtual personalizable que brinda al usuario recursos de hardware específicos. El rango de aplicaciones disponibles en máquinas virtuales es superior al que ofrecen los escritorios virtuales. Las máquinas virtuales también están aisladas de todas las otras máquinas virtuales en la red, y siguen existiendo en el sistema incluso después de que el usuario haya cerrado la sesión. Básicamente, ofrecen la misma experiencia que el PC de escritorio sin el mantenimiento del hardware.
 
+[video](https://youtu.be/DPEYRDJunNQ)
+
 ![image](https://github.com/calles/GII_TIC/assets/22343642/e18d2902-2108-4224-a8a2-b976ccfc00d8)
