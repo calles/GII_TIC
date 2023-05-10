@@ -13,6 +13,6 @@
 
 - Utilizar backup (snapshot).
 
- <img src="https://ingenierobinario.com/wp-content/uploads/2021/02/sistemvirtual.jpg" width="600" height="400" border="10" />
+ <img src="https://www.3digits.es/wp-content/uploads/2021/05/Virtual-Machine-Microsoft-System-Center.png" width="600" height="400" border="10" />
 
 
