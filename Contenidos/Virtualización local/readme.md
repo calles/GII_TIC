@@ -1,8 +1,7 @@
 # Virtualización local
 
 ## ¿Qué es una máquina virtual?
-Una máquina virtual (VM) es una versión digital de una computadora física. Su software puede ejecutar programas y sistemas operativos, almacenar datos, conectarse a redes y realizar otras funciones de procesamiento, y requiere mantenimiento, como actualizaciones y supervisión del sistema. 
-- - Google - - 
+Una máquina virtual (VM) es una versión digital de una computadora física. Su software puede ejecutar programas y sistemas operativos, almacenar datos, conectarse a redes y realizar otras funciones de procesamiento, y requiere mantenimiento, como actualizaciones y supervisión del sistema. "Google" 
   
 ## Tipos de máquinas virtuales
 En general, hay dos tipos de máquinas virtuales: máquinas virtuales de procesos y de sistemas. 
