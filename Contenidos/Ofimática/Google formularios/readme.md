@@ -12,6 +12,6 @@ Convierte el formulario de Google en un chatbot muy atractivo.
 [ChatBot](https://chatbot.page/LQLt5H)
 
 ***
-Ficha actualizada: 18 de junio de 2022
+Ficha actualizada: 18 de junio de 2022 </br>
 Autor: [Collect.chat Inc.open_in_new](https://collect.chat/)
 ***
