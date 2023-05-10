@@ -13,10 +13,10 @@ Una máquina virtual de sistema brinda un sistema completo, así que funciona co
   
 ## ¿Por qué debes usar máquinas virtuales?
 
--Portabilidad
--Seguridad
--Aprovisionamiento más rápido
--Menos espacio
+- Portabilidad
+- Seguridad
+- Aprovisionamiento más rápido
+- Menos espacio
   
 ## Escritorios virtuales frente a máquinas virtuales
 
