@@ -6,7 +6,7 @@
  
  * Arquitectura Docker
  ![image](https://github.com/calles/GII_TIC/assets/22343642/c1b499ea-32cf-4ddf-b7f2-1724ebcf4021)
-
+ <br/>
  * ¿Qué es una imagen?
  * ¿Qué es un contenedor?
  * Contenedor vs Máquina virtual
