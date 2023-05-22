@@ -2,7 +2,11 @@
 
 ## Introducción
  * ¿Qué es Docker?
+ Docker es una plataforma de código abierto que permite a los desarrolladores crear, desplegar, ejecutar y gestionar contenedores.
+ 
  * Arquitectura Docker
+ ![image](https://github.com/calles/GII_TIC/assets/22343642/c1b499ea-32cf-4ddf-b7f2-1724ebcf4021)
+
  * ¿Qué es una imagen?
  * ¿Qué es un contenedor?
  * Contenedor vs Máquina virtual
