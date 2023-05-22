@@ -2,7 +2,7 @@
 
 ## Introducción
  * ¿Qué es Docker?
- * Arquiotectura Docker
+ * Arquitectura Docker
  * ¿Qué es una imagen?
  * ¿Qué es un contenedor?
  * Contenedor vs Máquina virtual
