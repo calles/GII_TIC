@@ -8,7 +8,7 @@
 
 ## Instalación
  * [Windows](https://www.enmilocalfunciona.io/instalando-y-probando-docker-en-windows-10)
-  * https://learn.microsoft.com/es-es/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
+    * [Error WSL](https://learn.microsoft.com/es-es/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package)
  * [Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-es) 
 
 ## Docker Images
