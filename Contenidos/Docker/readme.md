@@ -7,8 +7,8 @@
  * [Contenedor vs Máquina virtual](https://github.com/calles/GII_TIC/assets/22343642/6bd6e134-e4ba-4274-8962-4f195d58048e)
 
 ## Instalación
- * Windows
- * Ubuntu
+ * [Windows](https://www.enmilocalfunciona.io/instalando-y-probando-docker-en-windows-10)
+ * [Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-es) 
 
 ## Docker Images
  * Imagenes oficiales
