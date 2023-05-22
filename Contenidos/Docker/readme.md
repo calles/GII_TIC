@@ -1,8 +1,7 @@
 # Docker
 
 ## Introducción
- * ¿Qué es Docker? <br/>
-   Docker es una plataforma de software que le permite crear, probar e implementar aplicaciones rápidamente.
+ * [¿Qué es Docker?](https://docs.docker.com/get-docker)
  * [Taxonomia en Docker](https://github.com/calles/GII_TIC/assets/22343642/7b7f504a-7468-44a9-85e8-ee1bb4294025)
  * [Arquitectura Docker](https://github.com/calles/GII_TIC/assets/22343642/c1b499ea-32cf-4ddf-b7f2-1724ebcf4021)
  * [Contenedor vs Máquina virtual](https://github.com/calles/GII_TIC/assets/22343642/6bd6e134-e4ba-4274-8962-4f195d58048e)
