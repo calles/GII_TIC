@@ -17,23 +17,13 @@
  * Eliminar imágenes
 
 ## Docker Containers
- * Listar / Mapear puertos
+ * Listar
  * Iniciar / Reiniciar / Detener
- * Variables de entorno
- * Crear un contenedor MySQL
- * Crear un contenedor Apache
+ * Crear un contenedor
 
 ## Docker Volumenes
- * Volúmenes de host - MySQL
- * Volúmenes anónimos - MySQL
-
+ * Volúmenes de host - Postgres / MySQL
+ * 
 ## Docker Network
  * ¿Cuál es la red por defecto?
- * Inspeccionar redes
- * Agregar contenedores a una red distinta a la por defecto
- * Conectar contenedores en la misma red
- * Conectar contenedores en distintas redes
- * Eliminar redes
- * Asignar IP a un contenedor
- * La red de Host
 
