@@ -10,12 +10,10 @@ Distribución de Actividades Formativas por Temas.
   * [LibreCAD - nanoCAD](https://github.com/calles/GII_TIC/tree/main/Contenidos/CAD)
 * 🤖 Nuevas tendencias sobre la IA.
   * [IA](https://docs.google.com/presentation/d/1agWRVK80smcQhBkt34_CgKmx4j3dO7g4IOgDJNFO9Q0/edit?usp=sharing)
-   * [Perplexity](https://www.perplexity.ai)
-   * [YouChat](https://you.com)
-   * [ChatPDF](https://www.chatpdf.com)
+   * [Perplexity](https://www.perplexity.ai) - [YouChat](https://you.com) - [ChatPDF](https://www.chatpdf.com)
 * 🖥️ Virtualización local.
   * [Máquina Virtual](https://github.com/calles/GII_TIC/blob/main/Contenidos/Virtualizaci%C3%B3n%20local/readme.md)
-   * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) [VMware](https://www.vmware.com/es/products/workstation-player/workstation-player-evaluation.html) [Hyper V](https://learn.microsoft.com/es-es/virtualization/hyper-v-on-windows/about/)
+   * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - [VMware](https://www.vmware.com/es/products/workstation-player/workstation-player-evaluation.html) - [Hyper V](https://learn.microsoft.com/es-es/virtualization/hyper-v-on-windows/about/)
 * ☁️ Virtualización en la nube
   * [Azure](https://azure.microsoft.com/es-es/free/students/)
 * ⚙️ Automatización de despliegue
