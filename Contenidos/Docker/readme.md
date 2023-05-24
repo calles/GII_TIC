@@ -23,6 +23,7 @@
 
 ## Docker Volumenes
  * Volúmenes de host - Postgres / MySQL
-## Docker Network
- * ¿Cuál es la red por defecto?
+
+## Docker Compose
+
 
