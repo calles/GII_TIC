@@ -19,7 +19,6 @@ Distribución de Actividades Formativas por Temas.
    * [VMware](https://www.vmware.com/es/products/workstation-player/workstation-player-evaluation.html)   
    * [Hyper V](https://learn.microsoft.com/es-es/virtualization/hyper-v-on-windows/about/)
 * ☁️ Virtualización en la nube
-  * [AWS](https://aws.amazon.com/es/)
-  * [Azure](https://azure.microsoft.com/es-es)
+  * [Azure](https://azure.microsoft.com/es-es/free/students/)
 * ⚙️ Automatización de despliegue
   * [Docker](https://github.com/calles/GII_TIC/blob/main/Contenidos/Docker/readme.md)
