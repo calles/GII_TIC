@@ -10,7 +10,7 @@ Repositorio de materiales y proyectos de la asignatura **TIC** del [Grado de Ing
 * [ChatGPT](https://openai.com)
 * [nanoCAD](https://nanocad.com)
 * [LibreCAD](https://librecad.org)
-* [AWS](https://aws.amazon.com/es/education/awseducate)
+* [Azure](https://azure.microsoft.com/es-es/free/students/)
 * [Docker](https://www.docker.com)
 
 ## Generalidades
