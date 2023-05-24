@@ -26,4 +26,4 @@
 
 [video](https://youtu.be/d_eAmlUX8jE)
 
-![docker](https://github.com/calles/GII_TIC/assets/22343642/41fde369-fa56-44fe-a807-b43d177e84d4)
+<img src="https://github.com/calles/GII_TIC/assets/22343642/41fde369-fa56-44fe-a807-b43d177e84d4" alt="Watch the video" width="500" height="250" border="10" />
