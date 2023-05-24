@@ -24,6 +24,6 @@
 ## Docker Volumenes
  * Volúmenes de host - Postgres / MySQL
 
-## Docker Compose
+[video](https://youtu.be/d_eAmlUX8jE)
 
 ![docker](https://github.com/calles/GII_TIC/assets/22343642/41fde369-fa56-44fe-a807-b43d177e84d4)
