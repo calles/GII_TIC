@@ -10,7 +10,8 @@ Cloud computing es la disponibilidad bajo demanda de recursos de computación co
  * Infraestructura como servicio (IaaS)
  * Cloud público
  * Cloud privado
- * Cloud híbrido<br/>
+ * Cloud híbrido
+ 
  [Más información](https://www.ibm.com/es-es/cloud/learn/cloud-computing-gbl)
 
 ## Definición de Serverless
