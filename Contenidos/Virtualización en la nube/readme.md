@@ -11,6 +11,7 @@ Cloud computing es la disponibilidad bajo demanda de recursos de computación co
  * Cloud público
  * Cloud privado
  * Cloud híbrido
+ [Más información](https://www.ibm.com/es-es/cloud/learn/cloud-computing-gbl)
 
 ## Definición de Serverless
 En resumen, Serverless es un modelo de ejecución caracterizado por: El proveedor Cloud provisiona dinámicamente recursos de computación bajo demanda, como CPU, memoria y máquinas virtuales de modo transparente para el cliente.
