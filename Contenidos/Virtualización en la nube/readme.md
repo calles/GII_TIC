@@ -3,7 +3,8 @@
 ## ¿Qué son los servicios en la nube?
 
 ## Definición de Serverless
-
+En resumen, Serverless es un modelo de ejecución caracterizado por: El proveedor Cloud provisiona dinámicamente recursos de computación bajo demanda, como CPU, memoria y máquinas virtuales de modo transparente para el cliente.
+<br/>
 ![image](https://github.com/calles/GII_TIC/assets/22343642/70f98aee-04e9-4a96-b468-e7f6700fd1dd) 
 
 ---
