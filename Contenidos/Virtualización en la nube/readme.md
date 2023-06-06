@@ -1,6 +1,16 @@
 # Virtualización en la nube
 
-## ¿Qué son los servicios en la nube?
+## ¿Qué es el cloud computing?
+Cloud computing es la disponibilidad bajo demanda de recursos de computación como servicios a través de Internet. Esta tecnología evita que las empresas tengan que encargarse de aprovisionar, configurar o gestionar los recursos y permite que paguen únicamente por los que usen.
+
+## tipos de cloud computing
+ * Informática como servicio a través de Internet
+ * Software como servicio (SaaS)
+ * Plataforma como servicio (PaaS)
+ * Infraestructura como servicio (IaaS)
+ * Cloud público
+ * Cloud privado
+ * Cloud híbrido
 
 ## Definición de Serverless
 En resumen, Serverless es un modelo de ejecución caracterizado por: El proveedor Cloud provisiona dinámicamente recursos de computación bajo demanda, como CPU, memoria y máquinas virtuales de modo transparente para el cliente.
